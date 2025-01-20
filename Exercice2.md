@@ -16,7 +16,10 @@
 ![Q121](https://github.com/user-attachments/assets/89cb9b73-36f9-4fb9-b73d-8eb34e04c09c)
 
 ## Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
+![Q122](https://github.com/user-attachments/assets/6649fba0-cd5f-4e65-aaff-c74c3e3af655)
 
 ## Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+![Q123](https://github.com/user-attachments/assets/73b54ba0-11fc-4e65-b58e-2aa7f8dd914b)
 
 ## Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
+![Q131](https://github.com/user-attachments/assets/1d8c7a98-d1d9-48cd-9dcc-130e36a2d178)
